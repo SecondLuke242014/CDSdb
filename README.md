@@ -1,2 +1,2 @@
 # CDSdb
-A database store thing.
+Database storing
